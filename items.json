@@ -1,0 +1,249 @@
+{
+  "loss_rates": [
+    "0.1",
+    "0.2",
+    "0.3"
+  ],
+  "items": [
+    {
+      "utt_id": "121-121726-0005",
+      "orig_audio": "./wav/orig/121-121726-0005.wav",
+      "losses": {
+        "0.1": {
+          "ref": "hedge a fence",
+          "audio_lm": "./wav/lm/0.1_121-121726-0005.wav",
+          "audio_wolm": "./wav/without_lm/0.1_121-121726-0005.wav",
+          "audio_ss": "./wav/soundstream/0.1_121-121726-0005.wav"
+        },
+        "0.2": {
+          "ref": "hedge a fence",
+          "audio_lm": "./wav/lm/0.2_121-121726-0005.wav",
+          "audio_wolm": "./wav/without_lm/0.2_121-121726-0005.wav",
+          "audio_ss": "./wav/soundstream/0.2_121-121726-0005.wav"
+        },
+        "0.3": {
+          "ref": "hedge a fence",
+          "audio_lm": "./wav/lm/0.3_121-121726-0005.wav",
+          "audio_wolm": "./wav/without_lm/0.3_121-121726-0005.wav",
+          "audio_ss": "./wav/soundstream/0.3_121-121726-0005.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "1221-135766-0007",
+      "orig_audio": "./wav/orig/1221-135766-0007.wav",
+      "losses": {
+        "0.1": {
+          "ref": "hester prynne nevertheless the loving mother of this one child ran little risk of erring on the side of undue severity",
+          "audio_lm": "./wav/lm/0.1_1221-135766-0007.wav",
+          "audio_wolm": "./wav/without_lm/0.1_1221-135766-0007.wav",
+          "audio_ss": "./wav/soundstream/0.1_1221-135766-0007.wav"
+        },
+        "0.2": {
+          "ref": "hester prynne nevertheless the loving mother of this one child ran little risk of erring on the side of undue severity",
+          "audio_lm": "./wav/lm/0.2_1221-135766-0007.wav",
+          "audio_wolm": "./wav/without_lm/0.2_1221-135766-0007.wav",
+          "audio_ss": "./wav/soundstream/0.2_1221-135766-0007.wav"
+        },
+        "0.3": {
+          "ref": "hester prynne nevertheless the loving mother of this one child ran little risk of erring on the side of undue severity",
+          "audio_lm": "./wav/lm/0.3_1221-135766-0007.wav",
+          "audio_wolm": "./wav/without_lm/0.3_1221-135766-0007.wav",
+          "audio_ss": "./wav/soundstream/0.3_1221-135766-0007.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "1284-1181-0021",
+      "orig_audio": "./wav/orig/1284-1181-0021.wav",
+      "losses": {
+        "0.1": {
+          "ref": "asked the voice in scornful accents",
+          "audio_lm": "./wav/lm/0.1_1284-1181-0021.wav",
+          "audio_wolm": "./wav/without_lm/0.1_1284-1181-0021.wav",
+          "audio_ss": "./wav/soundstream/0.1_1284-1181-0021.wav"
+        },
+        "0.2": {
+          "ref": "asked the voice in scornful accents",
+          "audio_lm": "./wav/lm/0.2_1284-1181-0021.wav",
+          "audio_wolm": "./wav/without_lm/0.2_1284-1181-0021.wav",
+          "audio_ss": "./wav/soundstream/0.2_1284-1181-0021.wav"
+        },
+        "0.3": {
+          "ref": "asked the voice in scornful accents",
+          "audio_lm": "./wav/lm/0.3_1284-1181-0021.wav",
+          "audio_wolm": "./wav/without_lm/0.3_1284-1181-0021.wav",
+          "audio_ss": "./wav/soundstream/0.3_1284-1181-0021.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "1580-141084-0020",
+      "orig_audio": "./wav/orig/1580-141084-0020.wav",
+      "losses": {
+        "0.1": {
+          "ref": "look at that he held out his hand",
+          "audio_lm": "./wav/lm/0.1_1580-141084-0020.wav",
+          "audio_wolm": "./wav/without_lm/0.1_1580-141084-0020.wav",
+          "audio_ss": "./wav/soundstream/0.1_1580-141084-0020.wav"
+        },
+        "0.2": {
+          "ref": "look at that he held out his hand",
+          "audio_lm": "./wav/lm/0.2_1580-141084-0020.wav",
+          "audio_wolm": "./wav/without_lm/0.2_1580-141084-0020.wav",
+          "audio_ss": "./wav/soundstream/0.2_1580-141084-0020.wav"
+        },
+        "0.3": {
+          "ref": "look at that he held out his hand",
+          "audio_lm": "./wav/lm/0.3_1580-141084-0020.wav",
+          "audio_wolm": "./wav/without_lm/0.3_1580-141084-0020.wav",
+          "audio_ss": "./wav/soundstream/0.3_1580-141084-0020.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "1580-141084-0045",
+      "orig_audio": "./wav/orig/1580-141084-0045.wav",
+      "losses": {
+        "0.1": {
+          "ref": "suddenly he heard him at the very door there was no possible escape",
+          "audio_lm": "./wav/lm/0.1_1580-141084-0045.wav",
+          "audio_wolm": "./wav/without_lm/0.1_1580-141084-0045.wav",
+          "audio_ss": "./wav/soundstream/0.1_1580-141084-0045.wav"
+        },
+        "0.2": {
+          "ref": "suddenly he heard him at the very door there was no possible escape",
+          "audio_lm": "./wav/lm/0.2_1580-141084-0045.wav",
+          "audio_wolm": "./wav/without_lm/0.2_1580-141084-0045.wav",
+          "audio_ss": "./wav/soundstream/0.2_1580-141084-0045.wav"
+        },
+        "0.3": {
+          "ref": "suddenly he heard him at the very door there was no possible escape",
+          "audio_lm": "./wav/lm/0.3_1580-141084-0045.wav",
+          "audio_wolm": "./wav/without_lm/0.3_1580-141084-0045.wav",
+          "audio_ss": "./wav/soundstream/0.3_1580-141084-0045.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "4446-2271-0007",
+      "orig_audio": "./wav/orig/4446-2271-0007.wav",
+      "losses": {
+        "0.1": {
+          "ref": "she doesnt take up with anybody you know",
+          "audio_lm": "./wav/lm/0.1_4446-2271-0007.wav",
+          "audio_wolm": "./wav/without_lm/0.1_4446-2271-0007.wav",
+          "audio_ss": "./wav/soundstream/0.1_4446-2271-0007.wav"
+        },
+        "0.2": {
+          "ref": "she doesnt take up with anybody you know",
+          "audio_lm": "./wav/lm/0.2_4446-2271-0007.wav",
+          "audio_wolm": "./wav/without_lm/0.2_4446-2271-0007.wav",
+          "audio_ss": "./wav/soundstream/0.2_4446-2271-0007.wav"
+        },
+        "0.3": {
+          "ref": "she doesnt take up with anybody you know",
+          "audio_lm": "./wav/lm/0.3_4446-2271-0007.wav",
+          "audio_wolm": "./wav/without_lm/0.3_4446-2271-0007.wav",
+          "audio_ss": "./wav/soundstream/0.3_4446-2271-0007.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "5142-33396-0061",
+      "orig_audio": "./wav/orig/5142-33396-0061.wav",
+      "losses": {
+        "0.1": {
+          "ref": "your mother the queen was standing by",
+          "audio_lm": "./wav/lm/0.1_5142-33396-0061.wav",
+          "audio_wolm": "./wav/without_lm/0.1_5142-33396-0061.wav",
+          "audio_ss": "./wav/soundstream/0.1_5142-33396-0061.wav"
+        },
+        "0.2": {
+          "ref": "your mother the queen was standing by",
+          "audio_lm": "./wav/lm/0.2_5142-33396-0061.wav",
+          "audio_wolm": "./wav/without_lm/0.2_5142-33396-0061.wav",
+          "audio_ss": "./wav/soundstream/0.2_5142-33396-0061.wav"
+        },
+        "0.3": {
+          "ref": "your mother the queen was standing by",
+          "audio_lm": "./wav/lm/0.3_5142-33396-0061.wav",
+          "audio_wolm": "./wav/without_lm/0.3_5142-33396-0061.wav",
+          "audio_ss": "./wav/soundstream/0.3_5142-33396-0061.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "61-70968-0002",
+      "orig_audio": "./wav/orig/61-70968-0002.wav",
+      "losses": {
+        "0.1": {
+          "ref": "a golden fortune and a happy life",
+          "audio_lm": "./wav/lm/0.1_61-70968-0002.wav",
+          "audio_wolm": "./wav/without_lm/0.1_61-70968-0002.wav",
+          "audio_ss": "./wav/soundstream/0.1_61-70968-0002.wav"
+        },
+        "0.2": {
+          "ref": "a golden fortune and a happy life",
+          "audio_lm": "./wav/lm/0.2_61-70968-0002.wav",
+          "audio_wolm": "./wav/without_lm/0.2_61-70968-0002.wav",
+          "audio_ss": "./wav/soundstream/0.2_61-70968-0002.wav"
+        },
+        "0.3": {
+          "ref": "a golden fortune and a happy life",
+          "audio_lm": "./wav/lm/0.3_61-70968-0002.wav",
+          "audio_wolm": "./wav/without_lm/0.3_61-70968-0002.wav",
+          "audio_ss": "./wav/soundstream/0.3_61-70968-0002.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "7176-92135-0037",
+      "orig_audio": "./wav/orig/7176-92135-0037.wav",
+      "losses": {
+        "0.1": {
+          "ref": "then is the time to introduce a meal on the stage",
+          "audio_lm": "./wav/lm/0.1_7176-92135-0037.wav",
+          "audio_wolm": "./wav/without_lm/0.1_7176-92135-0037.wav",
+          "audio_ss": "./wav/soundstream/0.1_7176-92135-0037.wav"
+        },
+        "0.2": {
+          "ref": "then is the time to introduce a meal on the stage",
+          "audio_lm": "./wav/lm/0.2_7176-92135-0037.wav",
+          "audio_wolm": "./wav/without_lm/0.2_7176-92135-0037.wav",
+          "audio_ss": "./wav/soundstream/0.2_7176-92135-0037.wav"
+        },
+        "0.3": {
+          "ref": "then is the time to introduce a meal on the stage",
+          "audio_lm": "./wav/lm/0.3_7176-92135-0037.wav",
+          "audio_wolm": "./wav/without_lm/0.3_7176-92135-0037.wav",
+          "audio_ss": "./wav/soundstream/0.3_7176-92135-0037.wav"
+        }
+      }
+    },
+    {
+      "utt_id": "8230-279154-0008",
+      "orig_audio": "./wav/orig/8230-279154-0008.wav",
+      "losses": {
+        "0.1": {
+          "ref": "but i do not think such an inference is warranted",
+          "audio_lm": "./wav/lm/0.1_8230-279154-0008.wav",
+          "audio_wolm": "./wav/without_lm/0.1_8230-279154-0008.wav",
+          "audio_ss": "./wav/soundstream/0.1_8230-279154-0008.wav"
+        },
+        "0.2": {
+          "ref": "but i do not think such an inference is warranted",
+          "audio_lm": "./wav/lm/0.2_8230-279154-0008.wav",
+          "audio_wolm": "./wav/without_lm/0.2_8230-279154-0008.wav",
+          "audio_ss": "./wav/soundstream/0.2_8230-279154-0008.wav"
+        },
+        "0.3": {
+          "ref": "but i do not think such an inference is warranted",
+          "audio_lm": "./wav/lm/0.3_8230-279154-0008.wav",
+          "audio_wolm": "./wav/without_lm/0.3_8230-279154-0008.wav",
+          "audio_ss": "./wav/soundstream/0.3_8230-279154-0008.wav"
+        }
+      }
+    }
+  ]
+}
